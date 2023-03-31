@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        2.1.0
-Release:        3
+Release:        4
 Summary:        Percent encoding and decoding
 
 # Upstream license specification: MIT/Apache-2.0
